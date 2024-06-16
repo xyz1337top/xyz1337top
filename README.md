@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **anything!**
 
-- 📫 How to reach me **kontakt@guwno.pl**
+- 📫 Contact: **kontakt@guwno.pl**
 
-<h3 align="left">Contact with me:</h3>
+<h3 align="left">Discord:</h3>
 <p align="left">
 <a href="https://discord.gg/b00stmarket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="b00stmarket" height="30" width="40" /></a>
 </p>
